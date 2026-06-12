@@ -1,5 +1,4 @@
 outputs/
 *.onnx
-*.pt
 __pycache__/
 
